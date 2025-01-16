@@ -6,7 +6,7 @@ mnist_ddpm_diffusion.ipynb - modified template from Absalon in which the neural 
 mnist_ddpm_diffusion_x0_prediction.ipynb - modified template from Absalon in which the neural network does the x_0 prediction
 
 ## B1.
-B1v9.ipynb
+B1v11.ipynb
 
 ## B2.
 b2.ipynb
